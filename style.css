@@ -1,0 +1,89 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight:400;
+    background:#fdf3f3;
+    color:#ddd;
+
+}
+
+a{
+    text-decoration:none;
+    font-size:14px;
+    color:#464646;
+}
+
+img{
+    width:100%;
+    display:block;
+    object-fit:cover;
+    height:auto;
+}
+
+.page_wrapper{
+    width:600px;
+    height:auto;
+    margin:0 auto;
+    display:block;
+}
+
+.table_header table{
+    text-align:center;
+}
+
+.table_header #header_top img{
+    height:60px;
+    width:100%;
+    object-fit:none;
+}
+.product_body .product_full .product_des{
+    text-align:center;
+    padding:20px 30px 40px 30px;
+    background:#fff;
+}
+.product_body .copy_margin{
+    margin-top:40px;
+}
+
+.product_body .product_full .product_des h1{
+    font-size:22px;
+    font-weight:600;
+    color:#161616;
+    margin:0;
+    padding:0;
+}
+.product_body .product_full .product_des p{
+    font-size:14px;
+    font-weight:400;
+    color:#161616;
+
+   
+}
+.product_body .product_full .product_des .p_title_top{
+    font-size:12px;
+    font-weight:600;
+    color:#7c7c7c;
+    margin:0;
+
+   
+}
+.product_body .product_full .product_des .btn_red{
+   padding:15px 10px;
+   background:#fd5959;
+   border:none;
+   outline:none;
+   cursor:pointer;
+   border-radius:5px;
+   font-size:15px;
+   color:#fff;
+   
+}
+
+ .section_footer{
+    text-align:center;
+}
+.section_footer .footer_social{
+    display:inline;
+}
+.section_footer .footer_social td{
+    padding:0 5px;
+}
